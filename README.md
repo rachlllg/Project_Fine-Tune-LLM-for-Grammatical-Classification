@@ -1,4 +1,4 @@
-# Project_Fine-Tune_LLM-for-Grammatical-Classification
+# Project_Fine-Tune-LLM-for-Grammatical-Classification
 
 Refer to the project page on my website for detailed discussion on the project, including steps performed to process and clean the dataset and model reults evaluation.
 
