@@ -3,6 +3,8 @@
 Refer to the project page on my website for detailed discussion on the project, including steps performed to process and clean the dataset and model reults evaluation.
 
 Project page: https://rachlllg.github.io/project/2023-Fine_Tune_LLM_for_Grammatical_Classification/
+Model weights: https://drive.google.com/drive/folders/1TIAYmbfQ_AR8ayyrnk7bvyxJ1qQix1cD?usp=drive_link
+Sample inference: https://colab.research.google.com/drive/12ZQim9oQwRbcJwxwBEz9P1WJ3SF79Agl?usp=sharing
 
 ## Background:
 This is one part of the final project for the Natural Language Processing class in my Masters in Data Science program. The original project involved three team members including myself, for the showcase here, I have only presented the work I have done, unless noted otherwise.
